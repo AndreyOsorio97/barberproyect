@@ -33,6 +33,21 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!--Esto hace parte de la configuracion de la base de datos. Hay que cnfirmar si se necesita en realidad-->
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+		<!--<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.12.0</version>
+		</dependency>-->
+		<!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
+		<!--<dependency>
+			<groupId>org.hibernate.validator</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>8.0.0.Alpha1</version>
+		</dependency>-->
+
 	</dependencies>
 
 	<build>
